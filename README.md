@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='Wishlist.gif' title='Video Walkthrough' width='250' alt='Video Walkthrough' />
+<img src='Wordle.gif' title='Video Walkthrough' width='250' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
