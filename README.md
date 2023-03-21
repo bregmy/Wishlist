@@ -1,4 +1,4 @@
-# Android Project 2 - *Name of App Here*
+# Android Project 2 - *WishList*
 
 Submitted by: **Your Name Here**
 
@@ -10,8 +10,8 @@ Time spent: **X** hours spent in total
 
 The following **required** functionality is completed:
 
-- [*] **User can add an item to their wishlist**
-- [*] **User can see their list of items based on previously inputted items**
+- [X] **User can add an item to their wishlist**
+- [X] **User can see their list of items based on previously inputted items**
 
 The following **optional** features are implemented:
 
